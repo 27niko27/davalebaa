@@ -1,0 +1,121 @@
+body{
+    background-color: #F1F1F1;
+  
+    
+}
+.container{
+    width: 1500px;
+    margin: 0 auto;
+  
+ 
+}   
+    header{
+        margin-top: 20px;
+    }     
+.p1{
+    margin-right: 35px;
+    display: inline-block;
+    color: #000;
+font-family: Roboto;
+font-size: 11px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+vertical-align: middle;
+}
+.img1{
+    display: inline-block;
+    vertical-align: middle;
+}
+.s-1{
+    margin-top: 50px;
+}
+h1{
+    color: #000;
+font-family: Roboto;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.card1{
+    display: inline-block;
+   
+}
+.cardimg{
+    margin-top: 20px;
+    
+  
+    z-index: -1;
+
+}
+.tbox{
+    width: 362px;
+    position: relative;
+    display: inline-block;
+   
+   
+}
+.t{
+    position: absolute;
+	top: 40%;
+	left: 40%;
+	transform: translate(-50%,-50%);
+    color: #FFF;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+    
+}
+.cardbottom{
+    width: 362px;
+    height: 171px;
+    background-color: #ffffff;
+
+}
+.cardp{
+    padding-left: 37px;
+    padding-top: 68px;
+    color: #8A8787;
+font-family: Roboto;
+font-size: 10px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.time{
+    padding-left: 37px;
+    padding-top: 8px;
+    display: inline-block;
+    vertical-align: bottom;
+}
+.bottomp{
+    vertical-align: bottom;
+    display: inline-block;
+}
+.card2{
+    
+    width: 362px;
+    position: relative;
+    display: inline-block;
+}
+.cardimg2{
+    margin-top: 20px;
+    
+  
+    z-index: -1;
+}
+.tp{
+    position: absolute;
+	top: 40%;
+	left: 40%;
+	transform: translate(-50%,-50%);
+    color: #FFF;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
