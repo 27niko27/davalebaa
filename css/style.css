@@ -4,7 +4,7 @@ body{
     
 }
 .container{
-    width: 1500px;
+    width: 1400px;
     margin: 0 auto;
   
  
@@ -39,13 +39,14 @@ font-weight: 700;
 line-height: normal;
 }
 .card1{
+    margin-right: 50px;
     display: inline-block;
-   
+    vertical-align: top;
 }
 .cardimg{
     margin-top: 20px;
+    display: inline-block;
     
-  
     z-index: -1;
 
 }
@@ -96,20 +97,21 @@ line-height: normal;
     display: inline-block;
 }
 .card2{
-    
+    margin-right: 50px;
+    vertical-align: top;
     width: 362px;
     position: relative;
     display: inline-block;
 }
 .cardimg2{
     margin-top: 20px;
-    
-  
+     
+  display: inline-block;
     z-index: -1;
 }
 .tp{
     position: absolute;
-	top: 40%;
+	top: 20%;
 	left: 40%;
 	transform: translate(-50%,-50%);
     color: #FFF;
@@ -117,5 +119,94 @@ font-family: Roboto;
 font-size: 20px;
 font-style: normal;
 font-weight: 700;
+line-height: normal;}
+.card3{
+    margin-right: 50px;
+    vertical-align: top;
+    width: 362px;
+    position: relative;
+    display: inline-block;
+}
+/* ---------------------------------------------s-2------------ */
+.s-2{
+    margin-top: 50px;
+}
+.h1{
+    color: #000;
+font-family: Roboto;
+font-size: 24px;
+font-style: normal;
+font-weight: 800;
 line-height: normal;
+}
+.s-2img{
+    margin-top: 20px;
+  display: block;
+
+}
+.s-2img2{
+    display: block;
+    margin-top: 20px;
+}
+.rightdiv{
+display: inline-block;
+margin-left: 40px;
+vertical-align: middle;
+
+}
+.leftdiv{
+    display: inline-block;
+vertical-align: middle;
+}
+.timg1 , .timg2 , .timg3{
+   
+    display: block;
+    width: 362px;
+height: 212px;
+
+}
+.timg1{
+    margin-bottom: 98px;
+}
+.timg2{
+    margin-bottom: 100px;
+}
+footer{
+    height: 200px;
+    background-color: #243043;
+    margin-top: 40px;
+}
+.footerp{
+    color: #818687;
+font-family: Roboto;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 12px;
+margin-right: 75px;
+}
+.div1,.div2,.div3{
+margin-top: 50px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.div4{
+    margin-left: 112px;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+.lastp{
+    color: #FFF;
+font-family: Roboto;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+.imgdiv{
+    display: inline-block;
+    margin-left: 592px;
 }
